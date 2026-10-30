@@ -1,0 +1,41 @@
+{
+  "id": "vizyon",
+  "name": {
+    "tr": "Vizyon",
+    "en": "Vision",
+    "ar": "الرؤية"
+  },
+  "description": {
+    "tr": "Vizyonumuz",
+    "en": "Our vision",
+    "ar": "رؤيتنا"
+  },
+  "keyword": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "path": "vizyon",
+  "icon": "visibility",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 1,
+  "url": "",
+  "text": {
+    "tr": "<h2>Vizyonumuz</h2>\n<p>Gaziantep mutfağının misafirlerimizin güvenle ve keyifle tükettiği, şeffaf bir temsilcisi olmak.</p>",
+    "en": "<h2>Our vision</h2>\n<p>To be a transparent ambassador of Gaziantep cuisine that guests enjoy with confidence.</p>",
+    "ar": "<h2>رؤيتنا</h2>\n<p>أن نكون سفيرًا شفافًا لمطبخ غازي عنتاب يستمتع به ضيوفنا بثقة.</p>"
+  },
+  "title": {
+    "tr": "Vizyon",
+    "en": "Vision",
+    "ar": "الرؤية"
+  },
+  "date": "2026-10-30T18:07:09.927Z",
+  "update": "2026-10-30T18:26:20.675Z"
+}

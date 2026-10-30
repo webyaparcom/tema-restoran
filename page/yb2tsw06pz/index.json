@@ -1,0 +1,39 @@
+{
+  "id": "yb2tsw06pz",
+  "name": {
+    "tr": "Galeri",
+    "en": "Gallery",
+    "ar": "المعرض"
+  },
+  "description": {
+    "tr": "Mekân, mutfak ve yemeklerden fotoğraflar.",
+    "en": "Photos of the venue, the kitchen and the dishes.",
+    "ar": "صور من المكان والمطبخ والأطباق."
+  },
+  "keyword": {
+    "tr": "galeri, fotoğraf",
+    "en": "gallery, photos",
+    "ar": "معرض، صور"
+  },
+  "path": "galeri",
+  "icon": "photo_library",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "44dne2"
+    ],
+    "footer": []
+  },
+  "index": 2,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Galeri",
+    "en": "Gallery",
+    "ar": "المعرض"
+  },
+  "date": "2026-10-30T18:18:38.489Z",
+  "update": "2026-10-30T18:26:20.618Z"
+}

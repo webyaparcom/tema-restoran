@@ -1,0 +1,41 @@
+{
+  "id": "kalitepolitikamiz",
+  "name": {
+    "tr": "Kalite Politikamız",
+    "en": "Quality Policy",
+    "ar": "سياسة الجودة"
+  },
+  "description": {
+    "tr": "Kalite politikamız",
+    "en": "Our quality policy",
+    "ar": "سياسة الجودة لدينا"
+  },
+  "keyword": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "path": "kalitepolitikamiz",
+  "icon": "verified",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 2,
+  "url": "",
+  "text": {
+    "tr": "<h2>Kalite Politikamız</h2>\n<p>Her gün taze hazırlık, soğuk zincire uyum, çapraz bulaşma önlemleri ve her üründe eksiksiz alerjen bildirimi esastır.</p>",
+    "en": "<h2>Our quality policy</h2>\n<p>Daily fresh preparation, cold-chain compliance, cross-contact precautions and complete allergen declarations for every item are our standard.</p>",
+    "ar": "<h2>سياسة الجودة لدينا</h2>\n<p>التحضير الطازج يوميًا والالتزام بسلسلة التبريد واحتياطات منع التلامس المتبادل والإفصاح الكامل عن مسببات الحساسية لكل طبق هي معيارنا.</p>"
+  },
+  "title": {
+    "tr": "Kalite Politikamız",
+    "en": "Quality Policy",
+    "ar": "سياسة الجودة"
+  },
+  "date": "2026-10-30T18:07:09.927Z",
+  "update": "2026-10-30T18:26:20.689Z"
+}

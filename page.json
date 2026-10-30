@@ -1,0 +1,190 @@
+{
+  "data": [
+    {
+      "name": {
+        "tr": "Menü",
+        "en": "Menu",
+        "ar": "القائمة"
+      },
+      "status": "play",
+      "id": "menu",
+      "path": "menu",
+      "category": "",
+      "url": "",
+      "index": 0,
+      "icon": "restaurant_menu",
+      "desing": {
+        "header": [],
+        "body": [
+          "k9ml02"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Kervan Sofrası menüsü: başlangıçlar, ana yemekler, tatlılar; alerjen bilgisiyle.",
+        "en": "Kervan Sofrasi menu: starters, mains and desserts with allergen information.",
+        "ar": "قائمة كرفان سوفراسي: مقبلات وأطباق رئيسية وحلويات مع معلومات مسببات الحساسية."
+      }
+    },
+    {
+      "name": {
+        "tr": "Rezervasyon",
+        "en": "Reservation",
+        "ar": "الحجز"
+      },
+      "status": "play",
+      "id": "rezervasyon",
+      "path": "rezervasyon",
+      "category": "",
+      "url": "",
+      "index": 1,
+      "icon": "event_seat",
+      "desing": {
+        "header": [],
+        "body": [
+          "k9rf02"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Çevrimiçi masa rezervasyonu (demo).",
+        "en": "Online table reservation (demo).",
+        "ar": "حجز طاولة عبر الإنترنت (تجريبي)."
+      }
+    },
+    {
+      "id": "yb2tsw06pz",
+      "name": {
+        "tr": "Galeri",
+        "en": "Gallery",
+        "ar": "المعرض"
+      },
+      "description": {
+        "tr": "Mekân, mutfak ve yemeklerden fotoğraflar.",
+        "en": "Photos of the venue, the kitchen and the dishes.",
+        "ar": "صور من المكان والمطبخ والأطباق."
+      },
+      "path": "galeri",
+      "icon": "photo_library",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "44dne2"
+        ],
+        "footer": []
+      },
+      "index": 2
+    },
+    {
+      "id": "d0cwzsnlp0",
+      "name": {
+        "tr": "Şubeler",
+        "en": "Branches",
+        "ar": "الفروع"
+      },
+      "description": {
+        "tr": "Şubelerimiz ve çalışma saatleri.",
+        "en": "Our branches and opening hours.",
+        "ar": "فروعنا وساعات العمل."
+      },
+      "path": "subeler",
+      "icon": "storefront",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "65k2fl",
+          "k9mp01"
+        ],
+        "footer": []
+      },
+      "index": 3
+    },
+    {
+      "id": "7eeiy6b138",
+      "name": {
+        "tr": "Alerjen bilgisi",
+        "en": "Allergens",
+        "ar": "مسببات الحساسية"
+      },
+      "description": {
+        "tr": "Menüdeki alerjenlerin nasıl gösterildiği.",
+        "en": "How allergens are shown on the menu.",
+        "ar": "كيف تُعرض مسببات الحساسية في القائمة."
+      },
+      "path": "alerjen-bilgisi",
+      "icon": "health_and_safety",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "s067ok"
+        ],
+        "footer": []
+      },
+      "index": 4
+    },
+    {
+      "name": {
+        "tr": "Hakkımızda",
+        "en": "About",
+        "ar": "من نحن"
+      },
+      "status": "play",
+      "id": "hakkimizda",
+      "path": "hakkimizda",
+      "category": "",
+      "url": "",
+      "index": 5,
+      "icon": "home",
+      "desing": {
+        "header": [],
+        "body": [
+          "k9in01"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Kervan Sofrası hikâyesi.",
+        "en": "The story of Kervan Sofrasi.",
+        "ar": "قصة كرفان سوفراسي."
+      }
+    },
+    {
+      "name": {
+        "tr": "İletişim",
+        "en": "Contact",
+        "ar": "اتصل بنا"
+      },
+      "status": "play",
+      "id": "iletisim",
+      "path": "iletisim",
+      "category": "",
+      "url": "",
+      "index": 6,
+      "icon": "home",
+      "desing": {
+        "header": [],
+        "body": [
+          "k9ct01",
+          "k9mp01"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Adres, telefon ve çalışma saatleri.",
+        "en": "Address, phone and opening hours.",
+        "ar": "العنوان والهاتف وساعات العمل."
+      }
+    }
+  ],
+  "desc": []
+}

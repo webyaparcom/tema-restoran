@@ -1,0 +1,41 @@
+{
+  "id": "misyon",
+  "name": {
+    "tr": "Misyon",
+    "en": "Mission",
+    "ar": "المهمة"
+  },
+  "description": {
+    "tr": "Misyonumuz",
+    "en": "Our mission",
+    "ar": "مهمتنا"
+  },
+  "keyword": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "path": "misyon",
+  "icon": "flag",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 0,
+  "url": "",
+  "text": {
+    "tr": "<h2>Misyonumuz</h2>\n<p>Misyonumuz, yerel malzemeyi doğru ateşte, açık bilgiyle ve cömert bir sofrayla buluşturmaktır.</p>",
+    "en": "<h2>Our mission</h2>\n<p>Our mission is to bring local ingredients together with the right fire, clear information and a generous table.</p>",
+    "ar": "<h2>مهمتنا</h2>\n<p>مهمتنا أن نجمع المكونات المحلية مع النار المضبوطة والمعلومات الواضحة ومائدة سخية.</p>"
+  },
+  "title": {
+    "tr": "Misyon",
+    "en": "Mission",
+    "ar": "المهمة"
+  },
+  "date": "2026-10-30T18:07:09.927Z",
+  "update": "2026-10-30T18:26:20.663Z"
+}

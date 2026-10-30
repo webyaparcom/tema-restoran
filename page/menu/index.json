@@ -1,0 +1,46 @@
+{
+  "name": {
+    "tr": "Menü",
+    "en": "Menu",
+    "ar": "القائمة"
+  },
+  "status": "play",
+  "category": "",
+  "id": "menu",
+  "url": "",
+  "path": "menu",
+  "index": 0,
+  "icon": "restaurant_menu",
+  "desing": {
+    "header": [],
+    "body": [
+      "k9ml02"
+    ],
+    "footer": []
+  },
+  "pathnext": "",
+  "description": {
+    "tr": "Kervan Sofrası menüsü: başlangıçlar, ana yemekler, tatlılar; alerjen bilgisiyle.",
+    "en": "Kervan Sofrasi menu: starters, mains and desserts with allergen information.",
+    "ar": "قائمة كرفان سوفراسي: مقبلات وأطباق رئيسية وحلويات مع معلومات مسببات الحساسية."
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "desc": {},
+  "title": {
+    "tr": "Menü",
+    "en": "Menu",
+    "ar": "القائمة"
+  },
+  "keyword": {
+    "tr": "menü, kebap, fiyat, alerjen",
+    "en": "menu, kebab, prices, allergens",
+    "ar": "قائمة، كباب، أسعار، مسببات الحساسية"
+  },
+  "text": {},
+  "update": "2026-10-30T18:26:20.610Z",
+  "date": "2026-10-30"
+}

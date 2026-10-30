@@ -1,0 +1,54 @@
+{
+  "order": false,
+  "user": false,
+  "description": {
+    "tr": "Kervan Sofrası: Gaziantep usulü kebap, mezeler ve tatlılar; alerjen bilgisi açık menü ve çevrimiçi masa rezervasyonu. (Demo site)",
+    "en": "Kervan Sofrasi: Gaziantep-style kebabs, mezze and desserts, with an allergen-labelled menu and online table booking. (Demo site)",
+    "ar": "كرفان سوفراسي: كباب على الطريقة الغازي عنتابية ومقبلات وحلويات، مع قائمة توضّح مسببات الحساسية وحجز طاولات عبر الإنترنت. (موقع تجريبي)"
+  },
+  "keyword": {
+    "tr": "restoran, kebap, menü, rezervasyon, alerjen",
+    "en": "restaurant, kebab, menu, reservation, allergen",
+    "ar": "مطعم، كباب، قائمة، حجز، مسببات الحساسية"
+  },
+  "category": "Kurumsal",
+  "name": "Kervan Sofrası",
+  "domain": "restoran.webyapar.com",
+  "langs": {
+    "tr": true,
+    "en": true,
+    "ar": true,
+    "de": false,
+    "ru": false,
+    "es": false,
+    "fr": false,
+    "it": false,
+    "ja": false,
+    "zh": false,
+    "ko": false,
+    "pt": false
+  },
+  "logo": "logo.png",
+  "multi": false,
+  "publishMode": "static",
+  "font": {
+    "body": "lora",
+    "heading": "playfair-display",
+    "ar": {
+      "body": "noto-naskh-arabic",
+      "heading": "noto-naskh-arabic"
+    }
+  },
+  "colorScheme": "auto",
+  "theme_color": "#B23A1B",
+  "seo": {
+    "noindex": true
+  },
+  "cssTokens": {
+    "--mx-radius-sm": "8px",
+    "--mx-radius-md": "12px",
+    "--mx-radius-lg": "16px",
+    "--mx-radius-xl": "28px"
+  },
+  "icon": "icon.png"
+}

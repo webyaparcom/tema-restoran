@@ -1438,7 +1438,7 @@
             "en": "I have read and understood the privacy notice on how my personal data is processed to create this request.",
             "ar": "لقد قرأت إشعار الخصوصية المتعلق بمعالجة بياناتي الشخصية لإنشاء هذا الطلب وفهمته."
           },
-          "href": "kvkk-aydinlatma-metni"
+          "href": "kisiselveriler"
         },
         "successText": {
           "tr": "Talebiniz için teşekkür ederiz. Kaydınız ekibimizin onayından sonra kesinleşir.",
@@ -3289,7 +3289,7 @@
             "en": "I have read and understood the privacy notice on how my personal data is processed to create this request.",
             "ar": "لقد قرأت إشعار الخصوصية المتعلق بمعالجة بياناتي الشخصية لإنشاء هذا الطلب وفهمته."
           },
-          "href": "kvkk-aydinlatma-metni"
+          "href": "kisiselveriler"
         },
         "successText": {
           "tr": "Talebiniz için teşekkür ederiz. Kaydınız ekibimizin onayından sonra kesinleşir.",
